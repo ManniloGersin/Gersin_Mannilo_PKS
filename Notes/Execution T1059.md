@@ -3,14 +3,6 @@
 ## What is Execution?
 Execution is the tactic where attackers run malicious code on a local or remote system.
 
-### Goals
-- Deploy malware
-- Control systems
-- Steal data
-- Move within a network
-
----
-
 ## Command and Scripting Interpreter (T1059)
 
 Attackers abuse legitimate scripting and command-line tools to execute malicious commands.
