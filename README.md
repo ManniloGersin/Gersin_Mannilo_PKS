@@ -3,5 +3,6 @@ This repository contains my Personal Knowledge System (PKS) notes, activities, r
 
 # Contents
 - Notes
-- Images
 - Resources
+- Activities
+- Projects
